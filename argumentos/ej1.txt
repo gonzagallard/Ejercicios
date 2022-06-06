@@ -1,0 +1,6 @@
+la variable argc  (argument count) es del tipo int y define el numero de argumantos en la linea
+de ordenes con la que se invoco el programa.
+la variable arv (argument vector) es del tipo puntero a un arreglo de cadena de caracteres, que contienen
+a dichos arguementos, uno por cadena.
+
+
